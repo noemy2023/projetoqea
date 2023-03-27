@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/WcM60mW/Quiz-1.png">
 
-<p align="center"> 🚀 em construção... 🚧 </p>
+<p align="center"> 🚀 READY </p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/nlw1?color=%2304D361">
@@ -34,4 +34,39 @@ QUIZ- O quiz foi um projeto desenvolvido pela turma de T.I do Senac de Três Cor
   <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
   </a>
   
-## Mobile
+### Web
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+<img alt="NextLevelWeek" title="#NextLevelWeek" src="https://i.ibb.co/yFBrRKF/pgt-2.png"width="700px">
+
+## 🛠 Tecnologias
+-[body-parser]
+-[dotenv]
+-[ejs]
+-[express]
+-[mysql2]
+-[sequelize]
+-[devDependencies]
+-[nodemon]
+
+## 🚀 Como executar o projeto
+
+git clone [https://github.com/](https://github.com/noemy2023/projetoqea.git)
+
+Entre no diretório do projeto
+cd projetoqea
+
+Instale as dependências
+npm install
+
+Configurando seu banco de dados
+Para configurar seu banco de dados, você deve acessar o arquivo .env
+
+DB_NAME = "projeto"
+USER = "root"
+PASSWORD = "senac@23"
+HOST = "localhost"
+PORT = "3307"
+
+Inicie o projeto 
+
+npm rum dev
