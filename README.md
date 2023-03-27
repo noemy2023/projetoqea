@@ -25,7 +25,7 @@
 
 ## 💻 Sobre o projeto
 
-QUIZ- O quiz foi um projeto desenvolvido pela turma de T.I do Senac de Três Corações Sul de Minas Gerais, quiz é uma plataforma de aprendizagem colaborativa que utiliza as características de uma rede sicial para conectar os usuários que têm a intenção de compartilhar seus conhecimentos com uma comunidade online o site é bem simples de ser usado pode ser acessado por qualquer usuário basta estar conectado a uma rede de internet.O quiz foi criado  com a intenção de praticar criação de rotas utilizando várias tecnologias de desenvolvimento back and.
+QUIZ- O quiz foi um projeto desenvolvido pela turma de T.I do Senac de Três Corações Sul de Minas Gerais, quiz é uma plataforma de aprendizagem colaborativa que utiliza as características de uma rede social para conectar os usuários que têm a intenção de compartilhar seus conhecimentos com uma comunidade online o site é bem simples de ser usado pode ser acessado por qualquer usuário basta estar conectado a uma rede de internet.O quiz foi criado  com a intenção de praticar criação de rotas utilizando várias tecnologias de desenvolvimento back and.
 
 ## 🎨 Layout
 
